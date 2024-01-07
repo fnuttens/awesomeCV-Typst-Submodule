@@ -269,6 +269,7 @@
           h(5pt)
           link(link_value)[#text]
         })
+        hBar()
         continue
       }
       if v != "" {box({
